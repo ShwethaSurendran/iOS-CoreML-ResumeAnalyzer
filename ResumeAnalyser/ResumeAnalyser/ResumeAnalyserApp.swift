@@ -2,8 +2,7 @@
 //  ResumeAnalyserApp.swift
 //  ResumeAnalyser
 //
-//  Created on 30/09/25.
-//
+//  Created on 30/09/25
 
 import SwiftUI
 
